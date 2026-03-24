@@ -1,13 +1,13 @@
-import { Bai_Jamjuree, Pridi } from "next/font/google";
+import { Prompt } from "next/font/google";
 import "./globals.css";
 
-const pridi = Pridi({
+const promptHeading = Prompt({
   subsets: ["latin", "thai"],
-  weight: ["300", "400", "500", "600", "700"],
+  weight: ["500", "600", "700"],
   variable: "--font-heading",
 });
 
-const baiJamjuree = Bai_Jamjuree({
+const promptBody = Prompt({
   subsets: ["latin", "thai"],
   weight: ["300", "400", "500", "600", "700"],
   variable: "--font-body",
@@ -22,7 +22,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="th">
-      <body className={`${pridi.variable} ${baiJamjuree.variable}`}>{children}</body>
+      <body className={`${promptHeading.variable} ${promptBody.variable}`}>{children}</body>
     </html>
   );
 }
