@@ -1,0 +1,16 @@
+{
+  "name": "watcharee_cv",
+  "version": "1.0.0",
+  "description": "Bilingual minimal pastel portfolio and CV site for Watcharee Khambun",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "private": true,
+  "dependencies": {
+    "next": "^16.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
