@@ -126,7 +126,7 @@ const content = {
       {
         period: "2568",
         role: "Admin",
-        company: "ฟรีเจ เวิร์ล เอ็นเตอร์ไพรส์",
+        company: "บริษัท พรีเจ เวิร์ล เอ็นเตอร์ไพรส์ จำกัด",
         bullets: [
           "ตอบแชทลูกค้าหลายแพลตฟอร์มและให้ข้อมูลสินค้าเบื้องต้น",
           "สนับสนุนการแจ้งโปรโมชั่นประจำเดือน",
@@ -136,7 +136,7 @@ const content = {
       {
         period: "2567 - 2568",
         role: "พนักงานขายทางมือถือและแชท",
-        company: "พรอชนิต จำกัด",
+        company: "บริษัท พรีออนิค จำกัด",
         bullets: [
           "ให้บริการลูกค้าผ่านมือถือและช่องทางแชท",
           "ติดตามลูกค้าผ่าน Line พร้อมแนะนำสินค้าและโปรโมชั่น",
@@ -307,7 +307,7 @@ const content = {
       {
         period: "2025",
         role: "Admin",
-        company: "ฟรีเจ เวิร์ล เอ็นเตอร์ไพรส์",
+        company: "Preage World Enterprise Co., Ltd.",
         bullets: [
           "Responded to customer inquiries across multiple platforms and provided basic sales information.",
           "Supported monthly promotion communication for customers.",
@@ -317,7 +317,7 @@ const content = {
       {
         period: "2024 - 2025",
         role: "Sales and Chat Support Staff",
-        company: "พรอชนิต จำกัด",
+        company: "Preonique Co., Ltd.",
         bullets: [
           "Assisted customers through mobile and chat-based sales channels.",
           "Followed up with customers via Line and recommended products and promotions.",
