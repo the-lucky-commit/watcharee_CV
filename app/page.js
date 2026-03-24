@@ -452,7 +452,13 @@ export default function HomePage() {
 
         <aside className="hero-right">
           <div className="portrait-stage">
-            <div className="portrait-disc">WK</div>
+            <div className="portrait-photo-wrap">
+              <img
+                src="/darin-profile.jpg"
+                alt={lang === "th" ? "รูปโปรไฟล์ดาริน" : "Darin profile photo"}
+                className="portrait-photo"
+              />
+            </div>
             <div className="floating-note note-a">Admin</div>
             <div className="floating-note note-b">Support</div>
             <div className="floating-note note-c">Fastwork</div>
