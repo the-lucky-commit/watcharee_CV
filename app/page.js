@@ -181,8 +181,6 @@ const content = {
       { label: "Line", value: "Dactww", href: "https://line.me/ti/p/~Dactww" },
       { label: "Location", value: "Si Racha, Chonburi", href: null },
     ],
-    footer:
-      "เว็บไซต์นี้ใช้เป็นทั้ง Portfolio, CV Online และหน้าแนะนำตัวสำหรับสมัครงานหรือรับงานฟรีแลนซ์",
   },
   en: {
     languageLabel: "EN",
@@ -362,8 +360,6 @@ const content = {
       { label: "Line", value: "Dactww", href: "https://line.me/ti/p/~Dactww" },
       { label: "Location", value: "Si Racha, Chonburi, Thailand", href: null },
     ],
-    footer:
-      "This website works as a portfolio, online CV, and profile page for job applications and freelance opportunities.",
   },
 };
 
@@ -404,7 +400,10 @@ export default function HomePage() {
 
       <header className="site-header glass reveal" style={{ "--delay": "60ms" }}>
         <a className="brand" href="#top">
-          watcharee_CV
+          <span className="brand-flower" aria-hidden="true">
+            ✿
+          </span>
+          <span>Darin</span>
         </a>
 
         <nav className="site-nav">
@@ -588,9 +587,6 @@ export default function HomePage() {
         </article>
       </section>
 
-      <footer className="site-footer reveal" style={{ "--delay": "180ms" }}>
-        <p>{copy.footer}</p>
-      </footer>
     </main>
   );
 }
