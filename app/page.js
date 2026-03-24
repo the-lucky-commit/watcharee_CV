@@ -40,7 +40,7 @@ const content = {
     highlights: [
       {
         title: "Customer Chat Operations",
-        subtitle: "Line / Marketplace / Multi-platform",
+        subtitle: "Line OA / Meta / Multi-platform",
         text: "ดูแลการสื่อสารลูกค้าตั้งแต่สอบถามสินค้า แจ้งโปรโมชั่น ไปจนถึงติดตามหลังการขาย เพื่อให้ตอบกลับไวและข้อมูลสม่ำเสมอ",
         tags: ["Chat Support", "Customer Service", "Follow-up"],
       },
@@ -85,7 +85,7 @@ const content = {
       },
       {
         title: "Tools",
-        items: ["Excel", "Word", "PowerPoint", "Canva", "Line", "Shopee", "Lazada"],
+        items: ["Excel", "Word", "PowerPoint", "Canva", "Line OA", "Meta Business Suite", "Shopee", "Lazada"],
       },
       {
         title: "Work Style",
@@ -115,12 +115,12 @@ const content = {
     experience: [
       {
         period: "2568 - ปัจจุบัน",
-        role: "พนักงานขายทางมือถือและแชท",
-        company: "Miracle",
+        role: "Telesales และ Admin",
+        company: "บริษัท มิราเคิล 24 จำกัด",
         bullets: [
-          "ดูแลการสื่อสารกับลูกค้าผ่าน Line และช่องทางแชท",
+          "ดูแลงานขายและการสื่อสารลูกค้าผ่าน Line OA และ Meta (Facebook/Instagram)",
           "ให้ข้อมูลสินค้า แนะนำโปรโมชั่น และติดตามลูกค้าอย่างต่อเนื่อง",
-          "สนับสนุนการปิดการขายทั้งลูกค้าเก่าและลูกค้าใหม่",
+          "สนับสนุนงานแอดมินหลังบ้าน เช่น บันทึกข้อมูลลูกค้าและติดตามออเดอร์",
         ],
       },
       {
@@ -221,7 +221,7 @@ const content = {
     highlights: [
       {
         title: "Customer Chat Operations",
-        subtitle: "Line / Marketplace / Multi-platform",
+        subtitle: "Line OA / Meta / Multi-platform",
         text: "Managed customer conversations from first inquiry to post-sale follow-up, keeping response quality and tone consistent across channels.",
         tags: ["Chat Support", "Customer Service", "Follow-up"],
       },
@@ -266,7 +266,7 @@ const content = {
       },
       {
         title: "Tools",
-        items: ["Excel", "Word", "PowerPoint", "Canva", "Line", "Shopee", "Lazada"],
+        items: ["Excel", "Word", "PowerPoint", "Canva", "Line OA", "Meta Business Suite", "Shopee", "Lazada"],
       },
       {
         title: "Work Style",
@@ -296,12 +296,12 @@ const content = {
     experience: [
       {
         period: "2025 - Present",
-        role: "Sales and Chat Support Staff",
-        company: "Miracle",
+        role: "Telesales and Admin",
+        company: "Miracle 24 Company Limited",
         bullets: [
-          "Communicate with customers through Line and chat channels.",
+          "Handle telesales and customer communication through Line OA and Meta channels.",
           "Provide product information, recommend promotions, and follow up with customers consistently.",
-          "Support sales closing for both existing and new customers.",
+          "Support backend admin tasks such as customer records and order follow-up.",
         ],
       },
       {
